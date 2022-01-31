@@ -6,6 +6,7 @@ import Newsletter from "../components/Newsletter";
 import Footer from "../components/Footer";
 import { med, mobile } from "../responsive";
 import { useLayoutEffect } from "react";
+import { Link } from "react-router-dom";
 
 const Container = styled.div``;
 
@@ -76,7 +77,9 @@ const ProductList = () => {
                 </Select>
               </Filter>
           </FilterContainer>
-          <Products/>
+          <Link to={`/product`}>
+            <Products/>
+          </Link>
           <Newsletter/>
           <Footer/>
       </Container>

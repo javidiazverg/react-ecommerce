@@ -35,12 +35,13 @@ const SearchContainer = styled.div`
     align-items: center;
     margin-left: 25px;
     padding: 5px;
+    ${mobile({marginLeft: "10px"})};
 `
 
 const Input = styled.input`
     border: none;
     ${mobile({width: "50px"})};
-    ${tablet({width: "100px"})};
+    ${tablet({width: "80px"})};
 `
 const Logo = styled.h1`
     font-weight: bold;
