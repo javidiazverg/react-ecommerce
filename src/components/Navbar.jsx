@@ -41,7 +41,7 @@ const SearchContainer = styled.div`
 const Input = styled.input`
     border: none;
     ${mobile({width: "50px"})};
-    ${tablet({width: "80px"})};
+    ${tablet({width: "70px"})};
 `
 const Logo = styled.h1`
     font-weight: bold;
