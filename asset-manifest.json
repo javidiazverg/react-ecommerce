@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/react-ecommerce/static/js/main.5198435e.chunk.js",
+    "main.js.map": "/react-ecommerce/static/js/main.5198435e.chunk.js.map",
+    "runtime-main.js": "/react-ecommerce/static/js/runtime-main.154aa746.js",
+    "runtime-main.js.map": "/react-ecommerce/static/js/runtime-main.154aa746.js.map",
+    "static/js/2.5267e4a0.chunk.js": "/react-ecommerce/static/js/2.5267e4a0.chunk.js",
+    "static/js/2.5267e4a0.chunk.js.map": "/react-ecommerce/static/js/2.5267e4a0.chunk.js.map",
+    "index.html": "/react-ecommerce/index.html",
+    "static/js/2.5267e4a0.chunk.js.LICENSE.txt": "/react-ecommerce/static/js/2.5267e4a0.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/react-ecommerce/static/media/1.03ac3a9c.png",
+    "static/media/2.png": "/react-ecommerce/static/media/2.5146c9e2.png",
+    "static/media/3.png": "/react-ecommerce/static/media/3.d4866f03.png",
+    "static/media/angela.png": "/react-ecommerce/static/media/angela.379954c0.png",
+    "static/media/burda.png": "/react-ecommerce/static/media/burda.fa25e397.png",
+    "static/media/dziana.jpg": "/react-ecommerce/static/media/dziana.49c294ed.jpg",
+    "static/media/flix.79872517.jpg": "/react-ecommerce/static/media/flix.79872517.jpg",
+    "static/media/jacket.png": "/react-ecommerce/static/media/jacket.0ab9439b.png",
+    "static/media/jean.150ce7c0.jpg": "/react-ecommerce/static/media/jean.150ce7c0.jpg",
+    "static/media/maksim.jpg": "/react-ecommerce/static/media/maksim.8ca0099f.jpg",
+    "static/media/mens.png": "/react-ecommerce/static/media/mens.bacb6143.png",
+    "static/media/merchandise.3dcadd57.png": "/react-ecommerce/static/media/merchandise.3dcadd57.png",
+    "static/media/orione.jpg": "/react-ecommerce/static/media/orione.7389c4ba.jpg",
+    "static/media/pexel.bfbd3d3a.jpg": "/react-ecommerce/static/media/pexel.bfbd3d3a.jpg",
+    "static/media/prada.png": "/react-ecommerce/static/media/prada.d0fda17f.png",
+    "static/media/rocket.png": "/react-ecommerce/static/media/rocket.2c214600.png",
+    "static/media/shoes.f135e1cd.png": "/react-ecommerce/static/media/shoes.f135e1cd.png",
+    "static/media/totes.png": "/react-ecommerce/static/media/totes.ebd650ae.png",
+    "static/media/women.png": "/react-ecommerce/static/media/women.7ea0d2c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154aa746.js",
+    "static/js/2.5267e4a0.chunk.js",
+    "static/js/main.5198435e.chunk.js"
+  ]
+}
